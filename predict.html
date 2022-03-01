@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+<div class="jumbotron jumbotron-fluid"style="background-color: #f9a825" >
+    <div class="container" align="center" >
+        <p class="lead"><b>Prediction for '{{session['university_name']}}' is:</b></p>
+        <br>
+        <h3><b>{{ pred }}</b></h3>
+        <br>
+        <p class="lead"><b>Based on your profile, our top recommendations are:</b></p>
+        <br>
+        {% for reco in recos %}
+            <p>{{ reco }} </p>
+        {% endfor %}
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<div lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>MS Chance of Admit (MIS)</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body style="background-image: url('https://www.notrereveamericain.fr/wp-content/uploads/2016/09/40029831-usa-wallpapers.jpg'); background-repeat: no-repeat;
+    background-size:cover; " >
+<nav style=" font-family:'Arial';" class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#"><b>MS Chance of Admit (MIS)</b></a>
+</nav>
+<br>
+<div class="container">
+    <form  method="POST">
+        {{form.hidden_tag()}}
+        <b>{{form.university.label}} </b> {{form.university()}}
+        <br>
+        <b >{{form.gre_score.label}} </b> {{form.gre_score()}}
+        <br>
+        <b >{{form.eng_test.label}} </b> {{form.eng_test()}}
+        <b >{{form.eng_test_score.label}} </b> {{form.eng_test_score()}}
+        <br>
+        <b >{{form.undergrad_score.label}} </b> {{form.undergrad_score()}}
+        <br>
+        <b >{{form.work_ex.label}} </b> {{form.work_ex()}}
+        <br>
+        {{form.submit()}}
+    </form>
+</div>
+</body>
+</html>
