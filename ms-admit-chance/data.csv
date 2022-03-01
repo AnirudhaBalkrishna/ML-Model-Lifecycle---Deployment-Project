@@ -1,0 +1,972 @@
+university_rank,university_name,gre,eng_test,eng_test_score,undergrad_score,work_ex,status
+10,University of Pennsylvania,315,TOEFL,104,7.7,3,Admit
+10,University of Pennsylvania,311,IELTS,7,7.7,25,Admit
+10,Northwestern University,312,TOEFL,110,8.6,24,Admit
+10,Northwestern University,307,TOEFL,103,8,34,Admit
+10,Northwestern University,321,TOEFL,102,7.5,12,Admit
+10,New York University,306,TOEFL,99,7.4,0,Admit
+10,New York University,310,TOEFL,110,7.5,0,Admit
+10,New York University,310,TOEFL,101,6.6,22,Admit
+10,New York University,306,TOEFL,103,6.3,27,Admit
+10,New York University,305,TOEFL,91,6.4,15,Admit
+10,New York University,299,TOEFL,88,8.3,30,Admit
+10,New York University,314,TOEFL,91,7.9,16,Admit
+10,New York University,305,IELTS,7.5,8.2,31,Admit
+10,New York University,318,TOEFL,111,6.7,6,Admit
+10,New York University,308,TOEFL,84,6.9,43,Reject
+10,New York University,301,TOEFL,91,6.3,21,Reject
+10,New York University,310,TOEFL,96,6.9,41,Reject
+10,New York University,312,TOEFL,105,7.6,27,Reject
+10,New York University,301,TOEFL,88,8.6,55,Reject
+10,New York University,303,TOEFL,90,6.7,14,Reject
+10,New York University,308,TOEFL,84,6.9,43,Reject
+10,New York University,305,TOEFL,98,5.4,18,Reject
+10,New York University,308,TOEFL,102,7.1,0,Reject
+10,New York University,302,IELTS,7,8.4,41,Reject
+10,New York University,303,TOEFL,89,6.5,15,Reject
+10,New York University,316,TOEFL,107,7.2,6,Reject
+10,New York University,302,TOEFL,92,7.1,35,Reject
+10,New York University,311,TOEFL,101,8.2,18,Reject
+10,New York University,308,TOEFL,86,8.1,14,Reject
+10,New York University,299,TOEFL,97,5.9,12,Reject
+17,New York University,296,TOEFL,90,5.7,8,Admit
+17,New York University,316,TOEFL,106,6.8,5,Admit
+17,New York University,310,TOEFL,112,7.2,22,Admit
+17,New York University,310,TOEFL,97,5.6,82,Admit
+17,New York University,300,TOEFL,97,6.1,6,Admit
+17,Carnegie Mellon University,315,TOEFL,99,7.3,26,Admit
+17,Carnegie Mellon University,298,TOEFL,88,5.3,20,Admit
+17,Carnegie Mellon University,309,TOEFL,108,7.5,10,Admit
+4,Carnegie Mellon University,308,TOEFL,102,7.5,15,Admit
+4,Carnegie Mellon University,315,TOEFL,108,8.3,8,Admit
+4,Carnegie Mellon University,321,TOEFL,109,8.3,18,Admit
+4,Carnegie Mellon University,310,TOEFL,107,7.4,14,Admit
+4,Carnegie Mellon University,315,TOEFL,109,8.5,6,Admit
+4,Carnegie Mellon University,315,TOEFL,110,8.6,3,Admit
+4,Carnegie Mellon University,316,IELTS,8,7.5,44,Admit
+4,Carnegie Mellon University,316,TOEFL,104,8.6,60,Admit
+4,Carnegie Mellon University,317,TOEFL,112,8.7,36,Admit
+4,Carnegie Mellon University,314,TOEFL,108,6.7,24,Admit
+4,Carnegie Mellon University,305,TOEFL,109,8.6,25,Admit
+4,Carnegie Mellon University,314,TOEFL,109,7.7,38,Admit
+4,Carnegie Mellon University,318,TOEFL,103,9,27,Admit
+4,Carnegie Mellon University,320,TOEFL,111,8,30,Admit
+4,Carnegie Mellon University,314,TOEFL,108,7.7,22,Admit
+4,Carnegie Mellon University,330,TOEFL,116,8.2,0,Admit
+4,Carnegie Mellon University,321,TOEFL,106,7.8,36,Admit
+4,Carnegie Mellon University,321,TOEFL,109,8.1,18,Reject
+4,Carnegie Mellon University,319,IELTS,7,8.5,7,Reject
+4,Carnegie Mellon University,322,TOEFL,110,3.1,12,Reject
+4,Carnegie Mellon University,324,TOEFL,106,7.8,33,Reject
+4,Carnegie Mellon University,325,TOEFL,116,8.5,2,Reject
+4,Carnegie Mellon University,315,TOEFL,109,6.7,29,Reject
+4,Carnegie Mellon University,293,TOEFL,101,8.7,20,Reject
+4,Carnegie Mellon University,321,TOEFL,108,6.3,21,Reject
+4,Carnegie Mellon University,318,TOEFL,109,6.8,13,Reject
+4,Carnegie Mellon University,314,IELTS,8,7.7,20,Reject
+4,Carnegie Mellon University,330,TOEFL,107,9.2,15,Reject
+4,Carnegie Mellon University,329,TOEFL,110,7.4,4,Reject
+4,Carnegie Mellon University,317,TOEFL,106,7.3,82,Reject
+4,Carnegie Mellon University,320,TOEFL,110,6.2,40,Reject
+4,Carnegie Mellon University,316,TOEFL,102,7.6,42,Admit
+4,Carnegie Mellon University,320,TOEFL,107,6.9,60,Admit
+4,Carnegie Mellon University,316,TOEFL,116,8.2,3,Admit
+4,Carnegie Mellon University,322,TOEFL,110,7.9,27,Admit
+4,Carnegie Mellon University,334,TOEFL,117,8.2,0,Admit
+4,Carnegie Mellon University,324,TOEFL,109,7.4,21,Admit
+4,Carnegie Mellon University,317,TOEFL,106,8.8,32,Admit
+4,Carnegie Mellon University,316,TOEFL,112,8.5,21,Admit
+4,Carnegie Mellon University,317,TOEFL,104,8.3,23,Admit
+4,Carnegie Mellon University,323,TOEFL,112,6.6,27,Admit
+4,Carnegie Mellon University,315,TOEFL,105,9.6,19,Admit
+4,Carnegie Mellon University,314,TOEFL,109,8.6,24,Admit
+4,Carnegie Mellon University,318,TOEFL,118,8.4,30,Admit
+4,Carnegie Mellon University,319,TOEFL,113,7.3,26,Admit
+4,Carnegie Mellon University,326,TOEFL,111,8.5,24,Admit
+4,Carnegie Mellon University,329,TOEFL,105,9.2,13,Admit
+4,Carnegie Mellon University,320,TOEFL,105,8.1,24,Admit
+4,Carnegie Mellon University,318,TOEFL,104,9.2,16,Admit
+4,Carnegie Mellon University,324,TOEFL,113,6.6,0,Admit
+4,Carnegie Mellon University,329,TOEFL,113,7.7,40,Reject
+4,Carnegie Mellon University,309,TOEFL,101,7.6,9,Reject
+4,Carnegie Mellon University,314,TOEFL,110,7.2,60,Reject
+4,Carnegie Mellon University,322,TOEFL,106,7.3,26,Reject
+4,Carnegie Mellon University,315,TOEFL,101,8.5,24,Reject
+4,Carnegie Mellon University,321,TOEFL,109,6,29,Reject
+4,Carnegie Mellon University,319,TOEFL,110,9,6,Reject
+4,Carnegie Mellon University,307,TOEFL,100,8.9,24,Reject
+4,Carnegie Mellon University,325,TOEFL,114,7.7,25,Reject
+4,Carnegie Mellon University,320,TOEFL,104,6.6,19,Reject
+4,Carnegie Mellon University,311,TOEFL,104,6,0,Reject
+4,Carnegie Mellon University,317,TOEFL,110,6.8,1,Reject
+4,Carnegie Mellon University,316,TOEFL,108,7.1,13,Reject
+4,University of Delaware,308,TOEFL,95,7.1,25,Reject
+4,University of Delaware,313,TOEFL,98,9.2,13,Reject
+4,University of Delaware,332,TOEFL,112,9.5,4,Reject
+5,University of Delaware,295,IELTS,7.5,7.5,32,Admit
+5,University of Delaware,303,TOEFL,93,6.4,2,Admit
+5,University of Delaware,310,IELTS,7.5,6.5,0,Admit
+5,University of Delaware,313,TOEFL,108,6.5,12,Admit
+5,University of Delaware,303,TOEFL,108,7.7,2,Admit
+5,University of Delaware,300,IELTS,6.5,7.4,16,Admit
+5,University of Delaware,306,TOEFL,92,6.8,1,Reject
+5,University of Texas at Austin,305,TOEFL,93,7.2,25,Reject
+5,University of Texas at Austin,312,TOEFL,101,7.5,0,Reject
+5,University of Texas at Austin,283,TOEFL,98,6.8,0,Reject
+19,University of Texas at Austin,309,TOEFL,97,6.9,0,Admit
+19,University of Texas at Austin,300,TOEFL,104,7.8,20,Admit
+19,University of Texas at Austin,302,IELTS,6.5,7.8,0,Admit
+19,University of Texas at Austin,305,TOEFL,96,8.4,4,Admit
+19,University of Texas at Austin,309,TOEFL,102,8,0,Admit
+19,University of Texas at Austin,309,TOEFL,93,7.4,4,Admit
+19,University of Texas at Austin,302,IELTS,7,8.2,8,Admit
+19,University of Texas at Austin,308,TOEFL,100,6.8,27,Admit
+19,University of Texas at Austin,302,TOEFL,86,6.5,28,Admit
+19,University of Texas at Austin,314,TOEFL,114,6.8,6,Admit
+19,University of Texas at Austin,314,TOEFL,107,8.3,6,Admit
+19,University of Texas at Austin,307,TOEFL,101,8.4,41,Admit
+19,University of Texas at Austin,305,IELTS,7.5,8,6,Admit
+19,University of Texas at Austin,306,TOEFL,92,6.3,1,Reject
+19,University of Texas at Austin,309,TOEFL,94,6.5,13,Reject
+19,University of Texas at Austin,318,TOEFL,113,6,20,Reject
+19,University of Texas at Austin,302,TOEFL,96,7.8,74,Reject
+19,University of Texas at Austin,297,TOEFL,86,6.2,32,Reject
+19,University of Texas at Austin,318,TOEFL,110,8.2,20,Reject
+13,University of Washington,326,TOEFL,115,9.4,1,Admit
+13,University of Washington,308,TOEFL,105,8.5,60,Admit
+13,University of Washington,317,TOEFL,110,6.9,25,Admit
+13,University of Washington,315,TOEFL,104,7.7,3,Admit
+13,University of Washington,315,TOEFL,104,7,18,Admit
+13,University of Washington,325,TOEFL,115,9.1,4,Admit
+13,University of Washington,319,TOEFL,114,6.7,14,Admit
+13,University of Washington,309,TOEFL,108,8.6,37,Admit
+13,University of Washington,312,TOEFL,110,8.6,24,Admit
+13,University of Washington,305,TOEFL,109,8.6,25,Admit
+13,University of Washington,325,TOEFL,115,9.6,26,Admit
+13,University of Washington,326,TOEFL,111,6,42,Admit
+13,University of Washington,316,TOEFL,112,8.5,21,Admit
+13,University of Washington,313,TOEFL,101,6.8,42,Admit
+13,University of Washington,313,TOEFL,107,9,0,Admit
+13,University of Washington,316,TOEFL,103,8.1,13,Admit
+13,University of Washington,306,TOEFL,98,10,0,Reject
+13,University of Washington,317,TOEFL,101,6.7,18,Reject
+13,University of Washington,308,TOEFL,84,6.9,43,Reject
+13,University of Washington,329,TOEFL,115,6.6,0,Reject
+13,University of Washington,314,TOEFL,111,7.2,3,Reject
+13,University of Washington,311,TOEFL,110,6.6,50,Reject
+13,University of Washington,311,TOEFL,101,7.2,24,Reject
+13,University of Washington,325,TOEFL,116,8.5,2,Reject
+13,University of Washington,323,TOEFL,110,8.6,0,Reject
+13,University of Washington,313,TOEFL,104,7.2,19,Reject
+13,University of Washington,316,TOEFL,102,7.8,54,Reject
+13,University of Washington,309,TOEFL,103,7.4,13,Reject
+13,University of Washington,313,TOEFL,97,7,23,Reject
+13,University of Washington,306,TOEFL,99,7.4,0,Reject
+13,University of Washington,315,IELTS,7.5,6.6,30,Reject
+13,University of Washington,293,TOEFL,101,8.7,20,Reject
+13,University of Washington,305,TOEFL,100,9,43,Reject
+33,University of Washington,299,TOEFL,84,8.6,67,Admit
+33,University of Washington,293,TOEFL,93,5.6,8,Admit
+33,University of Washington,300,IELTS,7,8.1,36,Admit
+33,University of Washington,303,TOEFL,91,7.7,1,Admit
+33,University of Washington,305,IELTS,6,6.9,26,Admit
+33,University of Washington,296,TOEFL,93,7,34,Admit
+33,University of Washington,291,IELTS,6.5,6.7,27,Admit
+33,University of Washington,294,TOEFL,93,5.4,35,Admit
+33,University of Washington,296,TOEFL,100,6.2,0,Admit
+33,University of Washington,295,IELTS,7.5,7.5,32,Admit
+33,University of Washington,311,IELTS,7.5,6.1,18,Admit
+33,University of Washington,306,TOEFL,99,6.5,0,Admit
+33,University of Washington,300,TOEFL,88,6,29,Admit
+33,University of Washington,302,TOEFL,92,6.6,24,Admit
+33,University of Washington,307,IELTS,6,6.9,26,Admit
+33,University of Washington,304,IELTS,7.5,6.3,4,Admit
+33,University of Washington,298,TOEFL,82,6.2,0,Reject
+33,University of Washington,300,IELTS,6.5,6.3,0,Reject
+33,University of Washington,289,TOEFL,81,6.1,8,Reject
+33,University of Washington,306,TOEFL,104,5.8,5,Reject
+33,University of Washington,300,TOEFL,92,6,12,Reject
+33,University of Washington,296,TOEFL,90,5.7,8,Reject
+33,University of Washington,290,IELTS,7.5,7,48,Reject
+33,University of Washington,307,IELTS,7,5.4,31,Reject
+33,University of Washington,304,TOEFL,99,6.5,0,Reject
+33,University of Washington,299,IELTS,6.5,5.5,2,Reject
+33,University of Washington,297,IELTS,6,5.9,12,Reject
+33,University of Washington,297,IELTS,7.5,8,0,Reject
+33,University of Washington,293,IELTS,7,6.1,0,Reject
+33,University of Washington,286,IELTS,7,5.8,30,Reject
+33,University of Washington,292,TOEFL,80,5.8,55,Reject
+33,University of Washington,302,TOEFL,99,6.7,22,Reject
+33,University of Washington,306,TOEFL,103,5.2,1,Reject
+33,University of Washington,305,TOEFL,90,6.9,19,Reject
+33,Indiana University Bloomington,300,TOEFL,90,5.5,4,Reject
+18,Indiana University Bloomington,309,IELTS,8,8,3,Admit
+18,Indiana University Bloomington,316,IELTS,8,8.9,18,Admit
+18,Indiana University Bloomington,313,TOEFL,105,6.9,11,Admit
+18,Indiana University Bloomington,311,IELTS,8,7.4,18,Admit
+18,Indiana University Bloomington,321,TOEFL,116,6.8,0,Admit
+18,Indiana University Bloomington,325,TOEFL,99,6.4,8,Admit
+18,Indiana University Bloomington,308,TOEFL,100,8.6,34,Admit
+18,Indiana University Bloomington,313,TOEFL,106,7.6,40,Admit
+18,Indiana University Bloomington,307,IELTS,7,7.7,33,Admit
+18,Indiana University Bloomington,306,TOEFL,97,8,55,Admit
+18,Indiana University Bloomington,305,TOEFL,99,7.2,72,Admit
+18,Indiana University Bloomington,309,TOEFL,106,7.3,20,Admit
+18,Indiana University Bloomington,311,TOEFL,109,7,29,Admit
+18,Indiana University Bloomington,309,TOEFL,97,7.7,43,Admit
+18,Indiana University Bloomington,311,TOEFL,102,6.6,25,Admit
+18,Indiana University Bloomington,315,TOEFL,100,8.1,42,Admit
+18,Indiana University Bloomington,308,TOEFL,99,6.3,56,Admit
+18,Indiana University Bloomington,310,TOEFL,103,7.5,20,Admit
+18,Indiana University Bloomington,308,IELTS,7.5,8,18,Reject
+18,Indiana University Bloomington,304,TOEFL,96,9.2,74,Reject
+18,Indiana University Bloomington,301,TOEFL,84,7.7,50,Reject
+18,Indiana University Bloomington,310,TOEFL,107,6.7,12,Reject
+18,Indiana University Bloomington,304,TOEFL,104,8.7,16,Reject
+18,Indiana University Bloomington,310,TOEFL,106,6.9,25,Reject
+18,Indiana University Bloomington,316,TOEFL,98,9,22,Reject
+18,Indiana University Bloomington,309,TOEFL,106,7.2,29,Reject
+18,Indiana University Bloomington,318,TOEFL,113,6,20,Reject
+18,Indiana University Bloomington,313,TOEFL,101,6.6,17,Reject
+18,Indiana University Bloomington,304,TOEFL,101,7.9,8,Reject
+18,Indiana University Bloomington,320,TOEFL,112,5.7,48,Reject
+18,Indiana University Bloomington,306,TOEFL,90,7.2,17,Reject
+18,Indiana University Bloomington,308,TOEFL,107,7,11,Reject
+18,Indiana University Bloomington,303,TOEFL,108,6.3,33,Reject
+18,Northeastern University,314,TOEFL,101,7.4,46,Reject
+18,Northeastern University,292,TOEFL,92,6.5,30,Reject
+18,Northeastern University,305,TOEFL,92,7.1,36,Reject
+18,Northeastern University,303,IELTS,7,7.7,22,Reject
+8,Northeastern University,325,TOEFL,116,8.5,2,Admit
+8,Northeastern University,303,TOEFL,102,6.5,9,Admit
+8,Northeastern University,320,TOEFL,112,8,28,Admit
+8,Northeastern University,325,TOEFL,119,8.2,0,Admit
+8,Northeastern University,316,TOEFL,103,8.1,13,Admit
+8,Northeastern University,323,TOEFL,103,7.9,7,Admit
+8,Northeastern University,318,TOEFL,118,8.4,30,Admit
+8,Northeastern University,326,TOEFL,115,9.4,1,Admit
+8,Northeastern University,319,TOEFL,113,9.3,11,Admit
+8,Northeastern University,313,TOEFL,111,8.5,31,Admit
+8,Northeastern University,315,TOEFL,105,7.4,0,Admit
+8,Northeastern University,319,TOEFL,112,7.5,35,Admit
+8,Northeastern University,312,TOEFL,113,6.5,0,Admit
+8,Northeastern University,324,TOEFL,113,6.6,0,Admit
+8,Northeastern University,316,TOEFL,100,6.2,0,Admit
+8,Northeastern University,322,TOEFL,110,7.9,27,Reject
+8,Northeastern University,317,TOEFL,114,6.2,36,Reject
+8,Northeastern University,311,TOEFL,101,7.2,24,Reject
+8,Northeastern University,316,TOEFL,114,7,26,Reject
+8,Northeastern University,312,TOEFL,108,7.1,6,Reject
+8,Northeastern University,312,TOEFL,110,8.6,24,Reject
+8,Northeastern University,312,TOEFL,105,6.5,18,Reject
+8,Northeastern University,326,TOEFL,113,6.9,44,Reject
+8,Northeastern University,324,TOEFL,110,6.4,16,Reject
+8,Northeastern University,322,TOEFL,104,8.3,0,Reject
+8,Arizona State University,319,TOEFL,113,7.3,26,Reject
+8,Arizona State University,324,TOEFL,114,8.3,30,Reject
+8,Arizona State University,312,TOEFL,102,6.5,20,Reject
+8,Arizona State University,320,TOEFL,108,6.5,41,Reject
+8,Arizona State University,312,TOEFL,98,7.1,14,Reject
+8,Arizona State University,308,TOEFL,108,8.7,36,Reject
+8,Arizona State University,314,TOEFL,108,7.1,28,Reject
+8,Arizona State University,306,TOEFL,99,8.8,30,Reject
+8,Arizona State University,315,TOEFL,101,9.8,0,Reject
+14,Arizona State University,309,TOEFL,102,7.1,30,Admit
+14,Arizona State University,319,TOEFL,110,7.5,0,Admit
+14,Arizona State University,316,TOEFL,103,8.1,28,Reject
+14,Arizona State University,300,TOEFL,94,8.1,29,Reject
+14,Arizona State University,321,TOEFL,113,8.8,20,Reject
+9,Arizona State University,298,TOEFL,82,6.2,0,Admit
+9,Arizona State University,305,TOEFL,102,8.3,3,Admit
+9,Arizona State University,313,TOEFL,102,7.9,0,Admit
+9,Arizona State University,306,TOEFL,99,8.5,0,Admit
+9,Arizona State University,306,TOEFL,104,8,20,Admit
+9,Arizona State University,296,TOEFL,83,7,3,Admit
+9,Arizona State University,309,TOEFL,104,5.6,38,Admit
+9,Arizona State University,331,TOEFL,107,6.4,24,Admit
+9,Arizona State University,303,TOEFL,87,6.8,60,Admit
+9,Arizona State University,303,TOEFL,89,6.5,0,Admit
+9,Arizona State University,306,TOEFL,96,7.3,60,Admit
+9,Arizona State University,307,TOEFL,97,6,0,Admit
+9,Arizona State University,299,TOEFL,84,8.6,67,Admit
+9,Arizona State University,302,TOEFL,102,5.6,8,Admit
+9,Arizona State University,293,TOEFL,101,8.7,20,Reject
+9,Arizona State University,292,TOEFL,72,5.9,48,Reject
+9,"Texas A&M; University, College Station",289,IELTS,7,7.9,24,Reject
+9,"Texas A&M; University, College Station",300,TOEFL,97,7.1,5,Reject
+9,"Texas A&M; University, College Station",293,TOEFL,87,5.9,11,Reject
+9,"Texas A&M; University, College Station",315,TOEFL,111,8.1,25,Reject
+9,"Texas A&M; University, College Station",307,TOEFL,99,6,20,Reject
+9,"Texas A&M; University, College Station",303,TOEFL,88,7,23,Reject
+9,"Texas A&M; University, College Station",293,TOEFL,107,7.7,0,Reject
+9,"Texas A&M; University, College Station",290,TOEFL,86,8.3,48,Reject
+9,"Texas A&M; University, College Station",304,TOEFL,90,6.6,46,Reject
+9,"Texas A&M; University, College Station",300,TOEFL,99,7.3,0,Reject
+9,"Texas A&M; University, College Station",316,TOEFL,107,7.7,40,Reject
+9,"Texas A&M; University, College Station",301,TOEFL,92,7.1,20,Reject
+9,"Texas A&M; University, College Station",314,TOEFL,109,7.2,0,Reject
+2,"Texas A&M; University, College Station",311,TOEFL,101,6.2,54,Admit
+2,"Texas A&M; University, College Station",318,TOEFL,105,6.8,42,Admit
+2,"Texas A&M; University, College Station",314,TOEFL,95,5.8,0,Reject
+3,"Texas A&M; University, College Station",311,TOEFL,107,5.2,35,Admit
+3,"Texas A&M; University, College Station",323,TOEFL,107,7.1,44,Admit
+3,"Texas A&M; University, College Station",312,TOEFL,104,7.6,20,Admit
+3,"Texas A&M; University, College Station",320,TOEFL,107,6.9,60,Admit
+3,"Texas A&M; University, College Station",316,TOEFL,113,7.9,36,Admit
+3,"Texas A&M; University, College Station",310,TOEFL,103,7,88,Admit
+3,"Texas A&M; University, College Station",311,TOEFL,98,7.3,25,Admit
+3,"Texas A&M; University, College Station",304,TOEFL,92,7.2,16,Admit
+3,"Texas A&M; University, College Station",311,TOEFL,97,7.7,35,Admit
+3,"Texas A&M; University, College Station",326,TOEFL,111,6,42,Admit
+3,"Texas A&M; University, College Station",308,TOEFL,100,9.2,26,Admit
+3,"Texas A&M; University, College Station",314,TOEFL,100,7.6,41,Admit
+3,"Texas A&M; University, College Station",320,TOEFL,113,7.9,17,Admit
+3,"Texas A&M; University, College Station",320,TOEFL,100,9,34,Admit
+3,"Texas A&M; University, College Station",310,TOEFL,115,7.2,48,Reject
+3,"Texas A&M; University, College Station",310,TOEFL,90,7.1,6,Reject
+3,Pennsylvania State University,312,TOEFL,91,7.8,14,Reject
+3,Pennsylvania State University,310,TOEFL,95,8,0,Reject
+3,Pennsylvania State University,316,TOEFL,100,6.2,0,Reject
+3,Pennsylvania State University,321,TOEFL,104,8.5,10,Reject
+3,Pennsylvania State University,313,TOEFL,112,5.5,43,Reject
+3,Pennsylvania State University,316,TOEFL,102,6.7,9,Reject
+3,Pennsylvania State University,320,TOEFL,113,8.1,0,Reject
+3,Pennsylvania State University,307,TOEFL,98,6.5,30,Reject
+3,Pennsylvania State University,306,TOEFL,103,6.3,20,Reject
+3,Pennsylvania State University,320,TOEFL,108,6.6,0,Reject
+3,University of Arizona,315,TOEFL,109,7,20,Reject
+3,University of Arizona,321,TOEFL,113,7,12,Reject
+3,University of Arizona,302,TOEFL,98,7.7,30,Reject
+3,University of Arizona,315,TOEFL,109,7,10,Reject
+12,University of Arizona,316,TOEFL,117,9.1,4,Admit
+12,University of Arizona,327,TOEFL,112,7.7,32,Admit
+12,University of Arizona,315,TOEFL,100,8.3,19,Admit
+12,University of Arizona,316,TOEFL,109,7.1,20,Admit
+12,University of Arizona,324,TOEFL,100,7,25,Admit
+12,University of Arizona,325,TOEFL,108,7.7,24,Admit
+12,University of Arizona,305,TOEFL,107,8.4,20,Admit
+12,University of Arizona,317,TOEFL,110,9.1,24,Admit
+12,University of Arizona,318,TOEFL,105,7.9,0,Admit
+12,University of Arizona,313,TOEFL,100,8,32,Reject
+25,University of Arizona,306,TOEFL,104,8,20,Admit
+25,University of Arizona,311,TOEFL,102,6.3,27,Admit
+25,University of Arizona,299,TOEFL,85,5.9,24,Admit
+25,University of Arizona,300,TOEFL,103,9,30,Admit
+25,University of Arizona,317,TOEFL,105,6.8,12,Admit
+25,University of Arizona,299,TOEFL,93,6.6,48,Admit
+25,University of Arizona,304,TOEFL,100,6.3,0,Admit
+25,University of Arizona,301,TOEFL,85,6.2,37,Admit
+25,University of Arizona,312,TOEFL,103,8,36,Admit
+25,University of Arizona,302,TOEFL,98,7.7,0,Admit
+25,University of Arizona,301,TOEFL,89,7.2,3,Admit
+25,University of Arizona,307,TOEFL,102,6.1,28,Admit
+25,University of Arizona,297,TOEFL,94,7,30,Admit
+25,University of Arizona,300,IELTS,6.5,5.9,26,Admit
+25,University of Arizona,305,TOEFL,104,7,6,Admit
+25,University of Arizona,302,TOEFL,101,6.4,18,Admit
+25,University of Arizona,309,TOEFL,104,7.3,30,Admit
+25,University of Arizona,303,TOEFL,88,5.9,1,Admit
+25,University of Arizona,305,IELTS,7.5,8,6,Admit
+25,"University of Minnesota, Twin Cities",300,TOEFL,98,7.2,54,Admit
+25,"University of Minnesota, Twin Cities",328,TOEFL,104,6,18,Reject
+25,"University of Minnesota, Twin Cities",305,TOEFL,95,7,1,Reject
+25,"University of Minnesota, Twin Cities",293,TOEFL,96,7.6,5,Reject
+25,"University of Minnesota, Twin Cities",304,TOEFL,95,6.1,0,Reject
+25,Rutgers University-New Brunswick,294,TOEFL,96,8.9,40,Reject
+25,Rutgers University-New Brunswick,297,TOEFL,92,5.7,24,Reject
+25,Rutgers University-New Brunswick,302,TOEFL,93,7.4,24,Reject
+25,Rutgers University-New Brunswick,312,TOEFL,107,5.3,11,Reject
+25,Rutgers University-New Brunswick,294,TOEFL,88,6.2,31,Reject
+25,Rutgers University-New Brunswick,297,TOEFL,86,6.2,32,Reject
+25,"Rutgers University, Newark",307,TOEFL,93,6.8,3,Reject
+25,"Rutgers University, Newark",302,TOEFL,85,5.8,18,Reject
+25,"Rutgers University, Newark",318,TOEFL,101,8.3,3,Reject
+25,"Rutgers University, Newark",304,TOEFL,97,6.1,0,Reject
+37,"Rutgers University, Newark",318,TOEFL,111,6.7,6,Admit
+37,"Rutgers University, Newark",315,TOEFL,99,7.6,0,Admit
+37,"Rutgers University, Newark",322,TOEFL,107,7.7,60,Admit
+37,"Rutgers University, Newark",327,TOEFL,104,7.3,9,Admit
+37,"Rutgers University, Newark",324,TOEFL,106,5.6,0,Admit
+37,"Rutgers University, Newark",317,IELTS,7,7.7,34,Admit
+37,"Rutgers University, Newark",315,TOEFL,107,7.7,0,Admit
+37,"Rutgers University, Newark",320,TOEFL,113,8.1,0,Admit
+37,"Rutgers University, Newark",319,TOEFL,114,6,30,Admit
+37,"Rutgers University, Newark",322,TOEFL,110,6.5,10,Admit
+37,"Rutgers University, Newark",313,TOEFL,100,6.2,10,Admit
+37,"Rutgers University, Newark",321,TOEFL,113,7,12,Admit
+37,Boston University,317,IELTS,7.5,5.9,50,Reject
+37,Boston University,320,TOEFL,101,8.4,0,Reject
+37,Boston University,309,TOEFL,105,7.8,0,Reject
+15,Boston University,310,TOEFL,107,7.4,14,Admit
+15,Boston University,303,TOEFL,97,6.3,37,Admit
+15,Boston University,294,TOEFL,86,7.4,39,Admit
+15,Boston University,301,TOEFL,88,8.6,55,Admit
+15,Boston University,300,TOEFL,98,7.8,0,Admit
+15,Iowa State University,317,TOEFL,103,8.1,6,Reject
+16,Iowa State University,303,TOEFL,85,6.3,6,Admit
+16,Iowa State University,300,TOEFL,93,6.9,82,Admit
+16,Iowa State University,294,TOEFL,95,6.3,12,Admit
+16,Iowa State University,294,TOEFL,90,6.6,0,Admit
+16,Iowa State University,298,TOEFL,95,6.7,30,Admit
+16,Iowa State University,303,TOEFL,91,7.7,1,Admit
+16,Iowa State University,293,TOEFL,95,7.3,33,Admit
+16,Iowa State University,291,IELTS,6.5,6.7,27,Admit
+16,Iowa State University,294,TOEFL,93,5.4,35,Admit
+16,Iowa State University,308,TOEFL,95,3.5,3,Admit
+16,Iowa State University,297,TOEFL,101,6.8,19,Admit
+16,Iowa State University,299,TOEFL,91,6.4,32,Admit
+16,Iowa State University,310,TOEFL,96,5.6,36,Admit
+16,Iowa State University,296,IELTS,6,6,36,Reject
+16,Iowa State University,310,TOEFL,107,6.7,12,Reject
+16,Iowa State University,313,TOEFL,112,5.5,43,Reject
+34,Iowa State University,316,TOEFL,113,6,0,Admit
+34,Iowa State University,304,TOEFL,100,8.2,46,Admit
+34,Iowa State University,306,TOEFL,104,7.5,34,Admit
+34,Iowa State University,298,TOEFL,104,7.2,7,Admit
+34,Iowa State University,307,TOEFL,106,6.4,30,Admit
+34,Iowa State University,301,TOEFL,92,6.2,5,Admit
+34,Iowa State University,307,TOEFL,97,7.2,52,Admit
+34,Iowa State University,322,TOEFL,110,3.1,12,Admit
+34,Iowa State University,301,TOEFL,100,6.3,37,Admit
+34,Iowa State University,317,TOEFL,108,8.2,0,Admit
+34,Iowa State University,308,TOEFL,100,6.4,29,Admit
+34,Iowa State University,306,TOEFL,99,7.4,0,Admit
+34,Iowa State University,322,TOEFL,107,7.4,28,Admit
+34,Iowa State University,307,TOEFL,108,7.5,0,Admit
+34,Iowa State University,309,TOEFL,94,8.7,2,Admit
+34,Iowa State University,319,TOEFL,101,6.6,15,Admit
+34,Iowa State University,304,TOEFL,96,9.2,74,Admit
+34,Iowa State University,317,TOEFL,94,8,6,Admit
+34,Iowa State University,309,TOEFL,94,5.4,6,Reject
+34,Iowa State University,298,TOEFL,98,6.1,0,Reject
+34,Drexel University,302,TOEFL,93,7.1,30,Reject
+34,Drexel University,294,TOEFL,89,7.3,23,Reject
+34,Drexel University,299,IELTS,7,8.1,12,Reject
+34,Drexel University,297,TOEFL,81,6.6,17,Reject
+34,Drexel University,292,TOEFL,85,5.1,8,Reject
+34,Drexel University,298,TOEFL,92,5.7,30,Reject
+34,Drexel University,294,TOEFL,106,6,0,Reject
+34,Drexel University,281,TOEFL,81,5.4,30,Reject
+21,Drexel University,308,TOEFL,100,6.5,38,Admit
+21,Drexel University,298,TOEFL,82,6.2,0,Admit
+21,Drexel University,303,TOEFL,85,6.3,6,Admit
+21,Drexel University,306,TOEFL,98,10,0,Admit
+21,Drexel University,301,TOEFL,107,6.5,41,Admit
+21,Drexel University,299,TOEFL,102,5.7,0,Admit
+21,Drexel University,304,TOEFL,90,8,61,Admit
+21,Drexel University,300,TOEFL,91,5.5,6,Admit
+21,Drexel University,331,TOEFL,107,6.4,24,Admit
+21,Drexel University,301,TOEFL,101,5.7,3,Admit
+21,Drexel University,308,TOEFL,102,7.1,0,Admit
+21,"University of California, Los Angeles",309,TOEFL,94,6.8,0,Admit
+21,"University of California, Los Angeles",312,IELTS,7,8.3,0,Admit
+21,Stevens Institute of Technology,313,TOEFL,103,6.5,0,Admit
+21,Stevens Institute of Technology,306,TOEFL,99,6.5,0,Admit
+21,Stevens Institute of Technology,313,TOEFL,103,7,0,Admit
+21,Stevens Institute of Technology,297,TOEFL,101,6.8,19,Admit
+21,Stevens Institute of Technology,314,TOEFL,108,6.7,24,Admit
+21,Stevens Institute of Technology,310,TOEFL,96,5.6,36,Admit
+21,Stevens Institute of Technology,293,TOEFL,98,6.4,45,Reject
+21,Stevens Institute of Technology,295,TOEFL,101,8.5,2,Reject
+21,Stevens Institute of Technology,289,TOEFL,95,6.4,30,Reject
+21,Stevens Institute of Technology,299,IELTS,8,5.9,0,Reject
+21,Stevens Institute of Technology,294,TOEFL,93,5.4,35,Reject
+21,Stevens Institute of Technology,300,TOEFL,92,6,12,Reject
+21,Stevens Institute of Technology,292,TOEFL,102,7.3,0,Reject
+21,Stevens Institute of Technology,307,TOEFL,86,6.4,7,Reject
+21,Stevens Institute of Technology,289,TOEFL,89,7,10,Reject
+21,Stevens Institute of Technology,291,TOEFL,93,6.8,1,Reject
+21,Stevens Institute of Technology,299,IELTS,7.5,6.6,6,Reject
+21,Stevens Institute of Technology,299,TOEFL,87,7.5,3,Reject
+21,Stevens Institute of Technology,299,TOEFL,90,5.5,12,Reject
+21,Stevens Institute of Technology,302,TOEFL,91,6.4,67,Reject
+21,Stevens Institute of Technology,304,TOEFL,95,6.1,0,Reject
+21,Stevens Institute of Technology,300,TOEFL,100,6.4,39,Reject
+21,Stevens Institute of Technology,298,TOEFL,88,7.5,30,Reject
+21,Stevens Institute of Technology,295,TOEFL,88,5.7,24,Reject
+21,Stevens Institute of Technology,287,IELTS,7,5.6,1,Reject
+23,Stevens Institute of Technology,308,TOEFL,105,8.5,60,Admit
+23,Stevens Institute of Technology,301,TOEFL,93,8.4,20,Admit
+23,Stevens Institute of Technology,320,TOEFL,117,5.9,30,Admit
+23,Stevens Institute of Technology,317,TOEFL,110,6.9,25,Admit
+23,Stevens Institute of Technology,323,TOEFL,109,8,13,Admit
+23,Stevens Institute of Technology,304,TOEFL,83,7.9,18,Admit
+23,Stevens Institute of Technology,310,TOEFL,90,7.1,6,Admit
+23,Stevens Institute of Technology,318,IELTS,7.5,8.2,0,Admit
+23,Stevens Institute of Technology,314,TOEFL,96,8,24,Admit
+23,Stevens Institute of Technology,317,TOEFL,108,8.2,0,Admit
+23,Stevens Institute of Technology,310,TOEFL,102,6,26,Admit
+23,Stevens Institute of Technology,317,TOEFL,101,6.7,18,Admit
+23,Stevens Institute of Technology,308,TOEFL,84,6.9,43,Admit
+23,"University of California, Irvine",311,TOEFL,111,6,40,Admit
+23,"University of California, Irvine",317,IELTS,7.5,7.9,57,Admit
+23,"University of California, Irvine",312,TOEFL,92,7.5,50,Admit
+23,"University of California, Irvine",305,TOEFL,109,6.5,29,Reject
+23,"University of California, Irvine",303,TOEFL,91,7.7,1,Reject
+23,"University of California, Irvine",309,TOEFL,105,8.7,30,Reject
+23,University at Buffalo SUNY,310,TOEFL,107,7.4,14,Reject
+23,University at Buffalo SUNY,308,TOEFL,100,5.8,12,Reject
+23,University at Buffalo SUNY,305,TOEFL,88,9,40,Reject
+23,University at Buffalo SUNY,307,TOEFL,101,8.6,45,Reject
+23,University at Buffalo SUNY,308,TOEFL,101,7.3,9,Reject
+23,University at Buffalo SUNY,304,TOEFL,88,6.4,47,Reject
+23,University at Buffalo SUNY,300,TOEFL,104,7.4,29,Reject
+23,University at Buffalo SUNY,308,TOEFL,100,9.2,26,Reject
+23,University at Buffalo SUNY,312,TOEFL,110,6.8,60,Reject
+23,University at Buffalo SUNY,308,TOEFL,90,6.9,54,Reject
+23,University at Buffalo SUNY,305,TOEFL,98,7.4,34,Reject
+23,University at Buffalo SUNY,308,TOEFL,100,6.4,29,Reject
+23,University at Buffalo SUNY,311,IELTS,7,7.7,25,Reject
+23,University at Buffalo SUNY,301,TOEFL,84,7.7,50,Reject
+24,University at Buffalo SUNY,306,TOEFL,97,7.3,42,Admit
+24,University at Buffalo SUNY,317,IELTS,7,6.4,1,Admit
+24,University at Buffalo SUNY,300,TOEFL,88,8.2,24,Admit
+24,University at Buffalo SUNY,308,TOEFL,99,6.5,19,Admit
+24,University at Buffalo SUNY,310,TOEFL,107,7.4,14,Admit
+24,University at Buffalo SUNY,314,TOEFL,106,9.2,0,Admit
+24,University at Buffalo SUNY,302,TOEFL,101,6.5,30,Admit
+24,University at Buffalo SUNY,303,TOEFL,94,7.4,27,Admit
+24,University at Buffalo SUNY,308,TOEFL,95,3.5,3,Admit
+24,University at Buffalo SUNY,304,TOEFL,96,7.9,12,Admit
+24,University at Buffalo SUNY,307,TOEFL,111,7.6,0,Admit
+24,University at Buffalo SUNY,307,TOEFL,94,7.9,37,Admit
+24,University at Buffalo SUNY,312,TOEFL,104,8.7,20,Admit
+24,University at Buffalo SUNY,319,TOEFL,114,6.7,14,Admit
+24,University at Buffalo SUNY,300,TOEFL,93,6.9,82,Reject
+24,University at Buffalo SUNY,302,TOEFL,86,6.5,27,Reject
+24,University at Buffalo SUNY,308,TOEFL,89,7.5,32,Reject
+24,University at Buffalo SUNY,308,TOEFL,102,7.1,0,Reject
+24,University at Buffalo SUNY,300,TOEFL,99,7.1,39,Reject
+24,Syracuse University,302,TOEFL,81,5.7,42,Reject
+24,Syracuse University,302,TOEFL,97,6.5,27,Reject
+24,Syracuse University,299,TOEFL,97,7.2,48,Reject
+24,Syracuse University,307,IELTS,7,5.4,31,Reject
+24,Syracuse University,297,TOEFL,99,5.6,24,Reject
+24,Syracuse University,305,TOEFL,98,5,17,Reject
+24,Syracuse University,296,TOEFL,93,6.4,64,Reject
+24,Syracuse University,300,TOEFL,90,7,12,Reject
+24,Syracuse University,297,TOEFL,88,8.1,20,Reject
+24,Syracuse University,323,TOEFL,110,8.6,0,Reject
+24,Syracuse University,302,IELTS,7,8.2,8,Reject
+11,Syracuse University,320,TOEFL,117,5.9,30,Admit
+11,Syracuse University,318,TOEFL,103,7.8,1,Admit
+11,Syracuse University,322,TOEFL,110,7.9,27,Admit
+11,Syracuse University,309,IELTS,7,8.5,16,Admit
+11,Syracuse University,320,TOEFL,111,8,30,Admit
+11,Syracuse University,330,TOEFL,108,7.2,12,Admit
+11,Syracuse University,312,TOEFL,104,8.7,20,Admit
+11,Syracuse University,325,TOEFL,116,8.5,2,Admit
+11,Syracuse University,309,TOEFL,94,8.8,60,Admit
+11,Syracuse University,296,TOEFL,91,7.2,20,Admit
+11,Syracuse University,309,IELTS,8,8,3,Admit
+11,Syracuse University,307,TOEFL,103,8,34,Admit
+11,Syracuse University,315,IELTS,7.5,6.6,30,Admit
+11,Syracuse University,306,TOEFL,104,7.5,34,Reject
+11,Syracuse University,317,TOEFL,101,6.7,18,Reject
+11,Syracuse University,315,TOEFL,104,7,18,Reject
+11,Syracuse University,312,TOEFL,110,8.6,24,Reject
+11,Syracuse University,317,TOEFL,108,8.2,0,Reject
+11,Syracuse University,313,TOEFL,101,6.8,42,Reject
+11,Rochester Institute of Technology,307,TOEFL,105,7.2,54,Reject
+11,Rochester Institute of Technology,311,TOEFL,107,6.8,16,Reject
+11,Rochester Institute of Technology,308,TOEFL,101,7.3,9,Reject
+11,Rochester Institute of Technology,305,TOEFL,100,9,43,Reject
+11,Rochester Institute of Technology,319,IELTS,7,8.5,7,Reject
+11,Rochester Institute of Technology,318,IELTS,7.5,7.2,60,Reject
+11,Rochester Institute of Technology,306,TOEFL,100,6.1,40,Reject
+11,Rochester Institute of Technology,305,TOEFL,95,8.5,34,Reject
+11,Rochester Institute of Technology,316,IELTS,7,8.5,36,Reject
+11,Rochester Institute of Technology,300,TOEFL,103,9,30,Reject
+11,Rochester Institute of Technology,308,TOEFL,104,8.2,23,Reject
+11,Rochester Institute of Technology,308,TOEFL,98,6.5,25,Reject
+11,Rochester Institute of Technology,320,TOEFL,108,6.5,41,Reject
+22,Rochester Institute of Technology,316,TOEFL,109,7.1,20,Admit
+22,Rochester Institute of Technology,325,TOEFL,109,8.4,0,Admit
+22,Rochester Institute of Technology,323,TOEFL,103,7,30,Admit
+22,Rochester Institute of Technology,318,TOEFL,107,8.1,25,Reject
+22,Rochester Institute of Technology,317,TOEFL,110,9.1,24,Reject
+22,Rochester Institute of Technology,321,TOEFL,111,5.7,26,Reject
+27,Rochester Institute of Technology,308,TOEFL,105,8.5,60,Admit
+27,Rochester Institute of Technology,311,IELTS,7,7.5,32,Admit
+27,Rochester Institute of Technology,320,TOEFL,117,5.9,30,Admit
+27,Rochester Institute of Technology,307,TOEFL,97,6,0,Admit
+27,Rochester Institute of Technology,313,TOEFL,98,8.9,44,Admit
+27,Rochester Institute of Technology,309,IELTS,7,7.1,36,Admit
+27,Rochester Institute of Technology,310,TOEFL,99,7.1,38,Admit
+27,Rochester Institute of Technology,311,TOEFL,111,6,40,Admit
+27,Rochester Institute of Technology,312,TOEFL,104,8.7,20,Admit
+27,Rochester Institute of Technology,311,TOEFL,91,8.1,60,Admit
+27,Rochester Institute of Technology,315,TOEFL,96,7.1,25,Admit
+27,Rochester Institute of Technology,315,IELTS,7.5,6.6,30,Admit
+27,Rochester Institute of Technology,321,TOEFL,112,6.3,60,Admit
+27,Rochester Institute of Technology,316,TOEFL,103,8.1,13,Admit
+27,Rochester Institute of Technology,320,TOEFL,113,7.9,17,Admit
+27,"University of Maryland, College Park",326,TOEFL,113,6.9,44,Admit
+27,"University of Maryland, College Park",313,TOEFL,109,8.2,25,Admit
+27,"University of Maryland, College Park",309,TOEFL,100,8.6,39,Admit
+27,"University of Maryland, College Park",311,TOEFL,100,7.7,25,Reject
+27,"University of Maryland, College Park",317,TOEFL,110,6.9,25,Reject
+27,"University of Maryland, College Park",319,IELTS,7,8.5,7,Reject
+27,"University of Maryland, College Park",313,TOEFL,100,7.7,0,Reject
+27,"University of Maryland, College Park",306,TOEFL,103,6.3,27,Reject
+27,"University of Maryland, College Park",300,TOEFL,103,9,30,Reject
+27,"University of Maryland, College Park",323,TOEFL,110,8.6,0,Reject
+27,"University of Maryland, College Park",305,TOEFL,98,7.4,34,Reject
+27,"University of Maryland, College Park",307,TOEFL,94,6.4,40,Reject
+27,"University of Maryland, College Park",315,TOEFL,112,8.2,1,Reject
+27,"University of Maryland, College Park",329,TOEFL,115,6.6,0,Reject
+27,"University of Maryland, College Park",306,TOEFL,95,6.5,20,Reject
+27,"University of Maryland, College Park",304,TOEFL,104,8.7,16,Reject
+27,"University of Maryland, College Park",296,TOEFL,91,7.2,20,Reject
+27,"University of Maryland, College Park",306,TOEFL,94,7.6,35,Reject
+27,"University of Maryland, College Park",297,TOEFL,90,8.9,26,Reject
+27,"University of Maryland, College Park",304,IELTS,7,7.9,30,Reject
+20,"University of Maryland, College Park",322,TOEFL,100,7.7,1,Reject
+20,"University of Maryland, College Park",321,TOEFL,113,8.8,20,Reject
+31,"University of Maryland, College Park",303,TOEFL,95,6.8,15,Admit
+31,"University of Maryland, College Park",302,TOEFL,88,6.5,5,Admit
+31,"University of Maryland, College Park",326,TOEFL,111,6,42,Admit
+31,"University of Maryland, College Park",305,TOEFL,107,8,18,Admit
+31,"University of Maryland, College Park",311,TOEFL,98,7.3,25,Admit
+31,"University of Maryland, College Park",309,TOEFL,100,8.6,39,Admit
+31,"University of Maryland, College Park",304,TOEFL,92,7.2,16,Admit
+31,"University of Maryland, College Park",302,TOEFL,107,8.3,13,Admit
+31,"University of Maryland, College Park",297,TOEFL,99,5.6,24,Admit
+31,"University of Maryland, College Park",309,TOEFL,107,8.2,14,Admit
+31,"University of Maryland, College Park",312,TOEFL,105,6.5,18,Admit
+31,"University of Maryland, College Park",302,IELTS,7,8.4,41,Admit
+31,"University of Maryland, College Park",306,TOEFL,104,7.2,18,Admit
+31,University of Cincinnati,320,TOEFL,111,5.9,0,Admit
+31,University of Cincinnati,309,TOEFL,95,6.8,23,Admit
+31,University of Cincinnati,303,TOEFL,106,7.5,0,Admit
+31,University of Cincinnati,320,TOEFL,108,6.5,20,Admit
+31,University of Cincinnati,302,TOEFL,96,6.2,48,Admit
+31,University of Cincinnati,308,TOEFL,97,8.3,41,Admit
+31,University of Cincinnati,302,IELTS,7,7.9,0,Reject
+31,University of Cincinnati,292,TOEFL,117,6.4,5,Reject
+31,University of Cincinnati,315,TOEFL,96,7.1,25,Reject
+31,University of Cincinnati,316,TOEFL,112,6.9,5,Reject
+31,University of Cincinnati,330,TOEFL,110,8.4,30,Reject
+31,University of Cincinnati,290,TOEFL,97,5.5,30,Reject
+31,University of Cincinnati,311,TOEFL,98,5.7,0,Reject
+31,University of Cincinnati,303,TOEFL,101,8.9,11,Reject
+31,University of Cincinnati,311,TOEFL,112,5.9,0,Reject
+31,University of Cincinnati,301,TOEFL,108,6.6,24,Reject
+31,University of Cincinnati,313,TOEFL,109,8.3,3,Reject
+31,University of Cincinnati,305,TOEFL,97,7,26,Reject
+31,University of Cincinnati,305,TOEFL,90,6.5,31,Reject
+31,University of Cincinnati,315,TOEFL,104,7.3,13,Reject
+31,University of Cincinnati,298,TOEFL,80,7.1,34,Reject
+30,University of Cincinnati,304,TOEFL,85,7.5,24,Admit
+30,University of Cincinnati,306,TOEFL,96,7.3,60,Admit
+30,University of Cincinnati,301,TOEFL,93,8.4,20,Admit
+30,University of Cincinnati,310,IELTS,7,7.1,27,Admit
+30,University of Cincinnati,320,TOEFL,117,5.9,30,Admit
+30,University of Cincinnati,306,TOEFL,104,7.5,34,Admit
+30,University of Cincinnati,303,TOEFL,99,6.2,58,Admit
+30,University of Cincinnati,309,TOEFL,94,6.5,13,Admit
+30,University of Cincinnati,309,TOEFL,107,5.4,0,Admit
+30,University of Cincinnati,304,TOEFL,88,6.4,47,Admit
+30,University of Cincinnati,310,TOEFL,107,7.4,14,Admit
+30,University of Cincinnati,312,TOEFL,96,7,9,Admit
+30,University of Cincinnati,317,TOEFL,101,6.7,18,Admit
+30,University of Cincinnati,310,TOEFL,96,5.6,36,Admit
+30,University of Texas at Dallas,305,TOEFL,109,6.5,29,Admit
+30,University of Texas at Dallas,315,TOEFL,104,7,18,Admit
+30,University of Texas at Dallas,304,TOEFL,96,7.9,12,Admit
+30,University of Texas at Dallas,312,IELTS,7,7.6,20,Admit
+30,University of Texas at Dallas,300,TOEFL,93,6.9,82,Reject
+30,University of Texas at Dallas,303,TOEFL,91,7.7,1,Reject
+30,University of Texas at Dallas,303,TOEFL,81,7.5,37,Reject
+30,University of Texas at Dallas,291,TOEFL,85,7.4,41,Reject
+30,University of Texas at Dallas,300,TOEFL,92,7.2,44,Reject
+30,University of Texas at Dallas,297,TOEFL,90,8.9,26,Reject
+30,University of Texas at Dallas,302,TOEFL,86,6.5,27,Reject
+30,University of Texas at Dallas,296,TOEFL,93,6.4,64,Reject
+30,University of Texas at Dallas,303,TOEFL,98,7.2,0,Reject
+30,University of Texas at Dallas,301,TOEFL,84,7.7,50,Reject
+30,University of Texas at Dallas,300,TOEFL,88,8.2,24,Reject
+30,University of Texas at Dallas,305,TOEFL,94,6.7,2,Reject
+30,University of Texas at Dallas,301,TOEFL,89,6,48,Reject
+30,University of Texas at Dallas,311,TOEFL,98,5.7,0,Reject
+30,University of Texas at Dallas,304,TOEFL,97,7.2,46,Reject
+30,University of Texas at Dallas,310,TOEFL,94,5.4,0,Reject
+30,University of Texas at Dallas,309,TOEFL,94,5.4,6,Reject
+30,University of Texas at Dallas,309,TOEFL,92,7.7,0,Reject
+26,University of Texas at Dallas,310,TOEFL,106,7.6,42,Admit
+26,University of Texas at Dallas,306,TOEFL,94,7.6,35,Admit
+26,University of Texas at Dallas,310,TOEFL,107,7.4,14,Admit
+26,University of Texas at Dallas,314,TOEFL,106,9.2,0,Admit
+26,University of Texas at Dallas,317,TOEFL,101,6.7,18,Admit
+26,University of Texas at Dallas,311,TOEFL,98,7.3,25,Admit
+26,University of Texas at Dallas,313,TOEFL,104,6.5,1,Admit
+26,University of Texas at Dallas,312,TOEFL,98,7.1,14,Admit
+26,University of North Carolina at Charlotte,315,TOEFL,108,8.3,8,Admit
+26,University of North Carolina at Charlotte,317,TOEFL,104,7.5,35,Admit
+26,University of North Carolina at Charlotte,317,TOEFL,108,8.2,0,Admit
+26,University of North Carolina at Charlotte,316,TOEFL,112,8.5,21,Admit
+26,University of North Carolina at Charlotte,312,TOEFL,105,6.5,18,Admit
+26,University of North Carolina at Charlotte,307,TOEFL,105,7.2,54,Admit
+26,University of North Carolina at Charlotte,316,TOEFL,103,8.1,13,Admit
+26,University of North Carolina at Charlotte,310,TOEFL,95,7,6,Admit
+26,University of North Carolina at Charlotte,307,TOEFL,108,7.5,0,Reject
+26,University of North Carolina at Charlotte,318,TOEFL,104,6.4,15,Reject
+26,University of North Carolina at Charlotte,308,TOEFL,102,7.1,0,Reject
+26,University of North Carolina at Charlotte,304,TOEFL,96,7.9,12,Reject
+26,University of North Carolina at Charlotte,304,TOEFL,112,8.3,0,Reject
+26,University of North Carolina at Charlotte,313,TOEFL,112,5.5,43,Reject
+26,University of North Carolina at Charlotte,309,TOEFL,95,6.8,23,Reject
+26,University of North Carolina at Charlotte,313,TOEFL,102,6.7,16,Reject
+26,University of North Carolina at Charlotte,309,TOEFL,99,6.6,30,Reject
+26,University of North Carolina at Charlotte,307,TOEFL,100,6.3,48,Reject
+26,University of North Carolina at Charlotte,311,TOEFL,96,8,27,Reject
+26,University of North Carolina at Charlotte,303,TOEFL,91,6.6,35,Reject
+26,University of North Carolina at Charlotte,311,TOEFL,98,8.8,27,Reject
+26,University of North Carolina at Charlotte,312,TOEFL,97,6.7,18,Reject
+26,University of North Carolina at Charlotte,309,TOEFL,88,7.7,16,Reject
+26,University of North Carolina at Charlotte,314,TOEFL,100,6.9,61,Reject
+26,University of North Carolina at Charlotte,307,TOEFL,100,6.7,53,Reject
+26,University of North Carolina at Charlotte,305,TOEFL,109,6.5,18,Reject
+26,University of North Carolina at Charlotte,314,TOEFL,104,5.8,53,Reject
+29,University of North Carolina at Charlotte,310,TOEFL,96,5.6,36,Admit
+29,University of North Carolina at Charlotte,308,TOEFL,84,6.9,43,Admit
+29,University of North Carolina at Charlotte,297,TOEFL,94,8.5,27,Admit
+29,University of North Carolina at Charlotte,298,TOEFL,91,6.9,26,Admit
+29,University of Illinois at Chicago,310,TOEFL,90,7.1,6,Admit
+29,University of Illinois at Chicago,306,TOEFL,96,6.2,15,Admit
+29,University of Illinois at Chicago,303,TOEFL,95,6.9,12,Admit
+29,University of Illinois at Chicago,301,IELTS,7,8.4,50,Admit
+29,University of Illinois at Chicago,305,TOEFL,95,6.7,10,Admit
+29,University of Illinois at Chicago,302,IELTS,7,5.9,13,Admit
+29,University of Illinois at Chicago,310,TOEFL,111,5.6,28,Admit
+29,University of Illinois at Chicago,305,TOEFL,98,8.4,19,Admit
+29,University of Illinois at Chicago,300,TOEFL,107,5.5,10,Admit
+29,University of Illinois at Chicago,309,TOEFL,100,8.6,39,Admit
+29,University of Illinois at Chicago,291,IELTS,6.5,6.7,27,Reject
+29,University of Illinois at Chicago,293,IELTS,6.5,7.7,17,Reject
+29,University of Illinois at Chicago,301,TOEFL,88,8.6,55,Reject
+29,University of Illinois at Chicago,312,TOEFL,113,10,0,Reject
+29,University of Illinois at Chicago,302,TOEFL,83,6.3,45,Reject
+29,University of Illinois at Chicago,293,IELTS,7,6.1,0,Reject
+29,University of Illinois at Chicago,303,TOEFL,93,6.4,2,Reject
+29,University of Illinois at Chicago,295,TOEFL,91,7.2,21,Reject
+29,University of Illinois at Chicago,297,TOEFL,83,6.2,1,Reject
+29,University of Illinois at Chicago,310,TOEFL,90,6.5,18,Reject
+29,University of Illinois at Chicago,305,TOEFL,90,6.9,19,Reject
+29,University of Illinois at Chicago,305,TOEFL,101,7.4,0,Reject
+29,University of Illinois at Chicago,313,TOEFL,90,5.9,18,Reject
+29,University of Illinois at Chicago,300,IELTS,6.5,7.4,16,Reject
+29,University of Illinois at Chicago,290,TOEFL,86,8.3,48,Reject
+29,University of Illinois at Chicago,300,TOEFL,84,6.2,42,Reject
+29,University of Illinois at Chicago,307,TOEFL,93,6,30,Reject
+1,University of Illinois at Chicago,317,TOEFL,104,8,10,Admit
+1,University of Illinois at Chicago,317,TOEFL,108,6.4,0,Admit
+28,University of Illinois at Chicago,313,TOEFL,110,5.3,2,Admit
+28,University of Illinois at Chicago,308,IELTS,7,8.1,20,Admit
+28,University of Illinois at Chicago,300,TOEFL,87,6.3,30,Admit
+28,University of Illinois at Chicago,313,TOEFL,100,6.5,12,Admit
+28,University of Illinois at Chicago,306,TOEFL,96,7.3,60,Admit
+28,University of Illinois at Chicago,310,TOEFL,115,6.8,16,Admit
+28,University of Illinois at Chicago,306,TOEFL,87,8.2,8,Admit
+28,University of Florida,310,TOEFL,93,8.8,19,Admit
+28,University of Florida,308,TOEFL,98,6.9,36,Admit
+28,University of Florida,305,TOEFL,104,6.2,0,Admit
+28,University of Florida,312,IELTS,7,7.6,20,Admit
+28,University of Florida,299,TOEFL,97,7.2,48,Admit
+28,University of Florida,295,TOEFL,84,6.9,60,Reject
+28,University of Florida,309,TOEFL,117,7,12,Reject
+28,University of Florida,285,IELTS,6.5,6.7,12,Reject
+28,University of Florida,297,TOEFL,94,8.5,27,Reject
+28,University of Florida,297,IELTS,6.5,7.2,0,Reject
+28,University of Florida,297,TOEFL,89,6.9,26,Reject
+28,University of Florida,300,TOEFL,98,7.3,6,Reject
+28,University of Florida,304,IELTS,7,6.7,45,Reject
+28,University of Florida,299,IELTS,6.5,7.5,4,Reject
+28,University of Florida,305,TOEFL,86,7.4,36,Reject
+28,University of Florida,302,TOEFL,102,6.6,34,Reject
+28,University of Florida,301,TOEFL,106,6.1,37,Reject
+28,University of Florida,308,TOEFL,106,7.5,22,Reject
+28,University of Florida,306,TOEFL,102,7.2,40,Reject
+28,University of Florida,300,TOEFL,86,8.4,36,Reject
+28,University of Florida,301,TOEFL,85,6.2,37,Reject
+28,University of Florida,306,TOEFL,103,8.4,41,Reject
+28,University of Florida,309,TOEFL,105,6.2,24,Reject
+35,University of Florida,299,TOEFL,94,7.7,46,Admit
+35,University of Florida,304,TOEFL,99,5.7,6,Admit
+35,University of Florida,301,TOEFL,91,5.8,40,Admit
+35,University of Florida,298,TOEFL,91,5.4,3,Admit
+35,University of Florida,297,TOEFL,88,6,0,Admit
+35,University of Florida,310,TOEFL,115,7.2,48,Admit
+35,University of Florida,303,TOEFL,81,7.5,37,Admit
+35,University of Florida,305,TOEFL,104,6.2,0,Admit
+35,University of Florida,310,TOEFL,96,6.9,41,Admit
+35,University of Florida,296,IELTS,6.5,8,19,Admit
+35,University of Florida,313,TOEFL,99,8.5,49,Admit
+35,University of Utah,310,TOEFL,102,5.9,53,Admit
+35,University of Utah,299,TOEFL,105,7.8,2,Admit
+35,University of Utah,300,TOEFL,92,6,12,Admit
+35,University of Utah,306,TOEFL,99,7.4,0,Admit
+35,University of Utah,304,TOEFL,87,7.5,32,Admit
+35,University of Utah,298,TOEFL,82,6.2,0,Reject
+35,University of Utah,302,TOEFL,102,5.6,8,Reject
+35,University of Utah,296,TOEFL,90,5.7,8,Reject
+35,University of Utah,294,TOEFL,87,6.9,25,Reject
+35,University of Utah,304,IELTS,6.5,6.8,47,Reject
+35,University of Utah,292,IELTS,6.5,6.6,7,Reject
+35,University of Utah,289,IELTS,7.5,6.4,9,Reject
+35,University of Utah,292,TOEFL,85,6.5,9,Reject
+35,University of Utah,289,IELTS,7,7.9,24,Reject
+35,University of Utah,291,IELTS,6.5,6,7,Reject
+35,University of Utah,297,IELTS,6,5.9,12,Reject
+35,University of Utah,288,TOEFL,94,7.2,0,Reject
+35,University of Utah,295,TOEFL,95,6,23,Reject
+35,University of Utah,307,TOEFL,84,6.3,24,Reject
+35,University of Utah,300,TOEFL,96,7.5,60,Reject
+35,University of Utah,297,TOEFL,79,6.3,0,Reject
+35,University of Utah,305,IELTS,6.5,7.2,0,Reject
+6,University of Utah,315,TOEFL,110,8.6,3,Admit
+6,University of Utah,311,TOEFL,98,7,40,Admit
+6,University of Utah,320,TOEFL,108,6.5,41,Admit
+6,University of Utah,311,TOEFL,102,7.4,85,Admit
+6,University of Utah,311,TOEFL,100,8.2,0,Admit
+6,University of Utah,321,TOEFL,104,7.1,76,Admit
+6,University of Utah,309,TOEFL,103,7.4,13,Admit
+6,University of Utah,321,TOEFL,104,6,39,Admit
+6,Illinois Institute of Technology,314,TOEFL,96,7.7,12,Admit
+6,Illinois Institute of Technology,314,IELTS,8,7.7,20,Admit
+6,Illinois Institute of Technology,324,TOEFL,109,7.5,40,Admit
+6,Illinois Institute of Technology,308,IELTS,7.5,7,84,Admit
+6,Illinois Institute of Technology,316,TOEFL,115,9.3,27,Admit
+6,Illinois Institute of Technology,323,TOEFL,111,9.7,2,Admit
+6,Illinois Institute of Technology,310,TOEFL,104,6.6,52,Admit
+6,Illinois Institute of Technology,305,TOEFL,95,8.5,34,Reject
+6,Illinois Institute of Technology,313,TOEFL,97,8,25,Reject
+6,Illinois Institute of Technology,326,TOEFL,113,7.8,6,Reject
+6,Illinois Institute of Technology,311,TOEFL,91,8.4,20,Reject
+6,Illinois Institute of Technology,303,TOEFL,95,6.1,27,Reject
+6,Illinois Institute of Technology,313,TOEFL,103,6.7,36,Reject
+6,Illinois Institute of Technology,327,TOEFL,113,8,30,Reject
+32,Illinois Institute of Technology,301,TOEFL,93,8.4,20,Admit
+32,Illinois Institute of Technology,302,IELTS,7.5,6.3,32,Admit
+32,Illinois Institute of Technology,300,TOEFL,99,7.1,39,Admit
+32,Illinois Institute of Technology,307,TOEFL,97,6.7,48,Admit
+32,Illinois Institute of Technology,311,TOEFL,98,7.3,25,Admit
+32,Illinois Institute of Technology,299,TOEFL,97,7.2,48,Admit
+32,Illinois Institute of Technology,311,TOEFL,102,7.4,85,Admit
+32,Illinois Institute of Technology,314,TOEFL,99,6.5,30,Admit
+32,Illinois Institute of Technology,307,TOEFL,101,8.6,45,Admit
+32,Illinois Institute of Technology,323,TOEFL,108,7.7,0,Admit
+32,Illinois Institute of Technology,321,TOEFL,104,6.5,2,Admit
+32,Illinois Institute of Technology,313,TOEFL,109,8.2,25,Admit
+32,Illinois Institute of Technology,324,TOEFL,109,6.2,40,Admit
+32,Illinois Institute of Technology,297,TOEFL,81,6.2,46,Admit
+32,Illinois Institute of Technology,311,TOEFL,102,9.1,11,Admit
+32,Illinois Institute of Technology,320,TOEFL,108,6.5,41,Admit
+32,Illinois Institute of Technology,307,IELTS,7,7.7,28,Reject
+32,Illinois Institute of Technology,319,TOEFL,101,6.6,15,Reject
+32,Illinois Institute of Technology,316,TOEFL,94,5.5,0,Reject
+32,Illinois Institute of Technology,302,TOEFL,99,6.7,22,Reject
+32,Illinois Institute of Technology,312,TOEFL,90,8.5,30,Reject
+32,Santa Clara University,304,TOEFL,84,7.2,18,Reject
+32,Santa Clara University,305,TOEFL,102,8,15,Reject
+32,Santa Clara University,316,TOEFL,96,7.3,35,Reject
+32,Santa Clara University,303,TOEFL,93,7.5,1,Reject
+32,Santa Clara University,297,TOEFL,83,6.2,1,Reject
+32,Santa Clara University,299,TOEFL,89,6.9,33,Reject
+32,Santa Clara University,300,TOEFL,97,7.9,58,Reject
+32,Santa Clara University,309,TOEFL,96,6.5,18,Reject
+32,Santa Clara University,302,TOEFL,91,6.4,67,Reject
+7,Santa Clara University,322,TOEFL,109,9.1,25,Admit
+7,Santa Clara University,315,TOEFL,101,9.8,0,Admit
+7,Santa Clara University,323,TOEFL,99,7.4,18,Admit
+7,Santa Clara University,316,TOEFL,97,7,31,Admit
+7,Santa Clara University,317,TOEFL,96,9.6,0,Admit
+7,Santa Clara University,316,TOEFL,112,8.5,21,Admit
+7,Santa Clara University,321,TOEFL,104,6.5,2,Admit
+7,Santa Clara University,313,TOEFL,100,7.7,0,Admit
+7,Santa Clara University,326,TOEFL,111,6,42,Admit
+7,Santa Clara University,329,TOEFL,114,7.2,51,Admit
+7,Santa Clara University,332,TOEFL,116,8.8,31,Admit
+7,Santa Clara University,324,TOEFL,114,8.3,30,Admit
+7,Santa Clara University,320,TOEFL,108,6.5,41,Admit
+7,Santa Clara University,330,TOEFL,110,8.4,30,Admit
+7,Santa Clara University,307,TOEFL,99,9,36,Admit
+7,Santa Clara University,320,TOEFL,103,7.9,52,Admit
+7,Santa Clara University,313,TOEFL,104,6.7,20,Admit
+7,Santa Clara University,319,TOEFL,117,8.4,4,Reject
+7,Santa Clara University,319,TOEFL,112,7.5,35,Reject
+7,University of Texas at Arlington,305,TOEFL,109,8.6,25,Reject
+7,University of Texas at Arlington,315,TOEFL,102,6.8,19,Reject
+7,University of Texas at Arlington,314,TOEFL,100,7.6,41,Reject
+7,University of Texas at Arlington,312,TOEFL,108,7.2,67,Reject
+7,University of Texas at Arlington,315,TOEFL,109,6.7,29,Reject
+7,University of Texas at Arlington,319,TOEFL,105,7.6,40,Reject
+7,University of Texas at Arlington,317,TOEFL,108,8.2,0,Reject
+7,University of Texas at Arlington,313,TOEFL,104,7.2,19,Reject
+7,University of Texas at Arlington,316,TOEFL,101,8.1,15,Reject
+7,University of Texas at Arlington,313,TOEFL,109,7.5,16,Reject
+7,University of Texas at Arlington,318,TOEFL,118,8.4,30,Reject
+7,University of Texas at Arlington,312,TOEFL,110,7.6,2,Reject
+7,University of Texas at Arlington,322,TOEFL,104,8.3,0,Reject
+7,University of Texas at Arlington,317,TOEFL,110,6.9,25,Reject
+7,University of Texas at Arlington,308,TOEFL,98,6.5,25,Reject
+7,University of Texas at Arlington,315,TOEFL,112,8.2,1,Reject
+7,University of Texas at Arlington,326,TOEFL,115,9.4,1,Admit
+7,University of Texas at Arlington,316,TOEFL,111,8.6,1,Admit
+7,University of Texas at Arlington,324,TOEFL,117,8.5,8,Admit
+7,University of Texas at Arlington,325,TOEFL,102,7.3,35,Admit
+7,University of Texas at Arlington,309,TOEFL,117,7,12,Admit
+7,University of Texas at Arlington,326,TOEFL,113,6.9,44,Admit
+7,University of Texas at Arlington,322,TOEFL,110,8.2,24,Admit
+7,University of Texas at Arlington,307,TOEFL,107,6.9,19,Admit
+7,University of Texas at Arlington,315,TOEFL,105,7.4,0,Admit
+7,University of Texas at Arlington,322,TOEFL,114,6.4,29,Admit
+7,University of Texas at Arlington,321,TOEFL,109,6,29,Admit
+7,University of Texas at Arlington,321,TOEFL,112,7.3,32,Admit
+7,University of Texas at Arlington,317,TOEFL,114,6.2,36,Admit
+7,University of Texas at Arlington,304,TOEFL,104,7.3,44,Admit
+7,University of Texas at Arlington,319,TOEFL,113,7.3,26,Admit
+7,University of Texas at Arlington,325,TOEFL,115,9.1,4,Admit
+7,University of Texas at Arlington,329,TOEFL,114,7.2,54,Admit
+7,Worcester Polytechnic Institute,318,TOEFL,112,7,11,Reject
+7,Worcester Polytechnic Institute,311,TOEFL,107,5.2,35,Reject
+7,Worcester Polytechnic Institute,313,TOEFL,107,9,0,Reject
+7,Worcester Polytechnic Institute,315,TOEFL,112,6.5,12,Reject
+7,Worcester Polytechnic Institute,321,TOEFL,112,6.3,60,Reject
+7,Worcester Polytechnic Institute,317,TOEFL,118,3.1,6,Reject
+7,Worcester Polytechnic Institute,323,TOEFL,111,8,48,Reject
+7,Worcester Polytechnic Institute,316,TOEFL,103,8.3,41,Reject
+7,Worcester Polytechnic Institute,326,TOEFL,113,7.8,6,Reject
+7,Worcester Polytechnic Institute,320,TOEFL,110,6.2,40,Reject
+7,Worcester Polytechnic Institute,318,TOEFL,111,6.7,6,Reject
+7,Worcester Polytechnic Institute,316,TOEFL,102,7.8,54,Reject
+7,Worcester Polytechnic Institute,320,TOEFL,102,8,0,Reject
+7,Worcester Polytechnic Institute,321,TOEFL,112,7.7,0,Reject
+7,Worcester Polytechnic Institute,306,TOEFL,115,6.3,16,Reject
+36,Worcester Polytechnic Institute,306,TOEFL,101,6.4,1,Admit
+36,Worcester Polytechnic Institute,301,TOEFL,91,6.3,21,Admit
+36,Worcester Polytechnic Institute,313,TOEFL,109,8.2,25,Admit
+36,Worcester Polytechnic Institute,296,TOEFL,93,6.4,64,Admit
+36,Worcester Polytechnic Institute,306,TOEFL,115,6.3,16,Admit
+36,Worcester Polytechnic Institute,313,TOEFL,104,6.5,1,Admit
+36,Worcester Polytechnic Institute,297,TOEFL,99,5.6,24,Admit
+36,Worcester Polytechnic Institute,313,TOEFL,103,8.7,26,Admit
+36,Worcester Polytechnic Institute,312,TOEFL,96,7.5,1,Admit
+36,Worcester Polytechnic Institute,303,TOEFL,93,6.4,2,Admit
+36,Worcester Polytechnic Institute,310,TOEFL,104,9.3,38,Admit
+36,Worcester Polytechnic Institute,305,TOEFL,95,6.7,10,Admit
+36,Rensselaer Polytechnic Institute,310,TOEFL,107,8,36,Admit
+36,Rensselaer Polytechnic Institute,304,TOEFL,102,6.1,26,Admit
+36,Rensselaer Polytechnic Institute,310,TOEFL,94,5.4,0,Admit
+36,Rensselaer Polytechnic Institute,309,TOEFL,95,6.8,23,Admit
+36,Rensselaer Polytechnic Institute,307,TOEFL,99,7.3,6,Admit
+36,Rensselaer Polytechnic Institute,317,TOEFL,109,6.8,2,Admit
+36,Rensselaer Polytechnic Institute,299,TOEFL,88,8,5,Reject
+36,Rensselaer Polytechnic Institute,308,TOEFL,99,6.3,56,Reject
+36,Rensselaer Polytechnic Institute,288,TOEFL,89,5.5,10,Reject
+36,Rensselaer Polytechnic Institute,302,TOEFL,86,6.5,28,Reject
+36,Rensselaer Polytechnic Institute,311,TOEFL,95,6.1,0,Reject
+36,Rensselaer Polytechnic Institute,295,TOEFL,90,6.1,18,Reject
+36,Rensselaer Polytechnic Institute,307,TOEFL,88,7,0,Reject
+36,Rensselaer Polytechnic Institute,301,TOEFL,89,6.3,0,Reject
+36,Rensselaer Polytechnic Institute,300,TOEFL,93,5,0,Reject
